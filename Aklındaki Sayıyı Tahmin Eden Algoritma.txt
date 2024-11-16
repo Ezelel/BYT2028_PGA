@@ -1,0 +1,16 @@
+﻿Aklındaki Sayıyı Tahmin Eden Algoritma
+
+
+1. Başla.
+2. Ekrana “Bir alt limit giriniz” yaz ve girilen sayıyı oku.(a)
+3. Ekrana “Bir üst limit giriniz” yaz ve girilen sayıyı oku.(b)
+4. Ekrana “Alt ve Üst limit arasında bir sayı tutunuz yaz” ve girilen sayıyı oku.(c)
+5. Alt ve Üst limitin ortasındaki sayıyı ekrana yaz.
+6. e - bildin
+b - (c)  ekrandaki sayıdan daha büyüktür.
+k - (c)  ekrandaki sayıdan daha küçüktür.
+Sorulara doğru bir şekilde cevap veriniz.(e/b/k)
+7. Cevap e ise sayıyı ekrana yaz.
+8. Cevap b ise ortadaki sayıyı alt limit kabul et ve 5. adıma git.
+9. Cevap k ise ortadaki sayıyı üst limit kabul et ve 5. adıma git.
+10.  Bitir.
